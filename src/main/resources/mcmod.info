@@ -1,0 +1,16 @@
+[
+{
+  "modid": "griefprotection",
+  "name": "Grief Protection",
+  "description": "Protects areas from Griefing",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Dyonovan"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
